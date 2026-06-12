@@ -4,552 +4,552 @@
             {
                 "team": "Mexico",
                 "group": "Group A",
-                "points": 3,
                 "wins": 1,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 2,
                 "goals_against": 0,
-                "goal_difference": 2
+                "goal_difference": 2,
+                "points": 3
             },
             {
                 "team": "South Korea",
                 "group": "Group A",
-                "points": 3,
                 "wins": 1,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 2,
                 "goals_against": 1,
-                "goal_difference": 1
+                "goal_difference": 1,
+                "points": 3
             },
             {
                 "team": "Czech Republic",
                 "group": "Group A",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 1,
                 "goals_for": 1,
                 "goals_against": 2,
-                "goal_difference": -1
+                "goal_difference": -1,
+                "points": 0
             },
             {
                 "team": "South Africa",
                 "group": "Group A",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 1,
                 "goals_for": 0,
                 "goals_against": 2,
-                "goal_difference": -2
+                "goal_difference": -2,
+                "points": 0
             }
         ],
         "Group B": [
             {
                 "team": "Switzerland",
                 "group": "Group B",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             },
             {
                 "team": "Qatar",
                 "group": "Group B",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             },
             {
                 "team": "Canada",
                 "group": "Group B",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             },
             {
                 "team": "Bosnia & Herzegovina",
                 "group": "Group B",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             }
         ],
         "Group C": [
             {
                 "team": "Scotland",
                 "group": "Group C",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             },
             {
                 "team": "Morocco",
                 "group": "Group C",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             },
             {
                 "team": "Haiti",
                 "group": "Group C",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             },
             {
                 "team": "Brazil",
                 "group": "Group C",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             }
         ],
         "Group D": [
             {
                 "team": "USA",
                 "group": "Group D",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             },
             {
                 "team": "Turkey",
                 "group": "Group D",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             },
             {
                 "team": "Paraguay",
                 "group": "Group D",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             },
             {
                 "team": "Australia",
                 "group": "Group D",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             }
         ],
         "Group E": [
             {
                 "team": "Ivory Coast",
                 "group": "Group E",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             },
             {
                 "team": "Germany",
                 "group": "Group E",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             },
             {
                 "team": "Ecuador",
                 "group": "Group E",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             },
             {
                 "team": "Cura\u00e7ao",
                 "group": "Group E",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             }
         ],
         "Group F": [
             {
                 "team": "Tunisia",
                 "group": "Group F",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             },
             {
                 "team": "Sweden",
                 "group": "Group F",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             },
             {
                 "team": "Netherlands",
                 "group": "Group F",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             },
             {
                 "team": "Japan",
                 "group": "Group F",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             }
         ],
         "Group G": [
             {
                 "team": "New Zealand",
                 "group": "Group G",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             },
             {
                 "team": "Iran",
                 "group": "Group G",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             },
             {
                 "team": "Egypt",
                 "group": "Group G",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             },
             {
                 "team": "Belgium",
                 "group": "Group G",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             }
         ],
         "Group H": [
             {
                 "team": "Uruguay",
                 "group": "Group H",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             },
             {
                 "team": "Spain",
                 "group": "Group H",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             },
             {
                 "team": "Saudi Arabia",
                 "group": "Group H",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             },
             {
                 "team": "Cape Verde",
                 "group": "Group H",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             }
         ],
         "Group I": [
             {
                 "team": "Senegal",
                 "group": "Group I",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             },
             {
                 "team": "Norway",
                 "group": "Group I",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             },
             {
                 "team": "Iraq",
                 "group": "Group I",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             },
             {
                 "team": "France",
                 "group": "Group I",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             }
         ],
         "Group J": [
             {
                 "team": "Jordan",
                 "group": "Group J",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             },
             {
                 "team": "Austria",
                 "group": "Group J",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             },
             {
                 "team": "Argentina",
                 "group": "Group J",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             },
             {
                 "team": "Algeria",
                 "group": "Group J",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             }
         ],
         "Group K": [
             {
                 "team": "Uzbekistan",
                 "group": "Group K",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             },
             {
                 "team": "Portugal",
                 "group": "Group K",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             },
             {
                 "team": "DR Congo",
                 "group": "Group K",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             },
             {
                 "team": "Colombia",
                 "group": "Group K",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             }
         ],
         "Group L": [
             {
                 "team": "Panama",
                 "group": "Group L",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             },
             {
                 "team": "Ghana",
                 "group": "Group L",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             },
             {
                 "team": "England",
                 "group": "Group L",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             },
             {
                 "team": "Croatia",
                 "group": "Group L",
-                "points": 0,
                 "wins": 0,
                 "draws": 0,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
-                "goal_difference": 0
+                "goal_difference": 0,
+                "points": 0
             }
         ]
     },
@@ -557,134 +557,134 @@
         {
             "team": "Canada",
             "group": "Group B",
-            "points": 0,
             "wins": 0,
             "draws": 0,
             "losses": 0,
             "goals_for": 0,
             "goals_against": 0,
-            "goal_difference": 0
+            "goal_difference": 0,
+            "points": 0
         },
         {
             "team": "Haiti",
             "group": "Group C",
-            "points": 0,
             "wins": 0,
             "draws": 0,
             "losses": 0,
             "goals_for": 0,
             "goals_against": 0,
-            "goal_difference": 0
+            "goal_difference": 0,
+            "points": 0
         },
         {
             "team": "Paraguay",
             "group": "Group D",
-            "points": 0,
             "wins": 0,
             "draws": 0,
             "losses": 0,
             "goals_for": 0,
             "goals_against": 0,
-            "goal_difference": 0
+            "goal_difference": 0,
+            "points": 0
         },
         {
             "team": "Ecuador",
             "group": "Group E",
-            "points": 0,
             "wins": 0,
             "draws": 0,
             "losses": 0,
             "goals_for": 0,
             "goals_against": 0,
-            "goal_difference": 0
+            "goal_difference": 0,
+            "points": 0
         },
         {
             "team": "Netherlands",
             "group": "Group F",
-            "points": 0,
             "wins": 0,
             "draws": 0,
             "losses": 0,
             "goals_for": 0,
             "goals_against": 0,
-            "goal_difference": 0
+            "goal_difference": 0,
+            "points": 0
         },
         {
             "team": "Egypt",
             "group": "Group G",
-            "points": 0,
             "wins": 0,
             "draws": 0,
             "losses": 0,
             "goals_for": 0,
             "goals_against": 0,
-            "goal_difference": 0
+            "goal_difference": 0,
+            "points": 0
         },
         {
             "team": "Saudi Arabia",
             "group": "Group H",
-            "points": 0,
             "wins": 0,
             "draws": 0,
             "losses": 0,
             "goals_for": 0,
             "goals_against": 0,
-            "goal_difference": 0
+            "goal_difference": 0,
+            "points": 0
         },
         {
             "team": "Iraq",
             "group": "Group I",
-            "points": 0,
             "wins": 0,
             "draws": 0,
             "losses": 0,
             "goals_for": 0,
             "goals_against": 0,
-            "goal_difference": 0
+            "goal_difference": 0,
+            "points": 0
         },
         {
             "team": "Argentina",
             "group": "Group J",
-            "points": 0,
             "wins": 0,
             "draws": 0,
             "losses": 0,
             "goals_for": 0,
             "goals_against": 0,
-            "goal_difference": 0
+            "goal_difference": 0,
+            "points": 0
         },
         {
             "team": "DR Congo",
             "group": "Group K",
-            "points": 0,
             "wins": 0,
             "draws": 0,
             "losses": 0,
             "goals_for": 0,
             "goals_against": 0,
-            "goal_difference": 0
+            "goal_difference": 0,
+            "points": 0
         },
         {
             "team": "England",
             "group": "Group L",
-            "points": 0,
             "wins": 0,
             "draws": 0,
             "losses": 0,
             "goals_for": 0,
             "goals_against": 0,
-            "goal_difference": 0
+            "goal_difference": 0,
+            "points": 0
         },
         {
             "team": "Czech Republic",
             "group": "Group A",
-            "points": 0,
             "wins": 0,
             "draws": 0,
             "losses": 1,
             "goals_for": 1,
             "goals_against": 2,
-            "goal_difference": -1
+            "goal_difference": -1,
+            "points": 0
         }
     ]
 }
