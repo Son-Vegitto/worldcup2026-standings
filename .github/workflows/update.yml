@@ -1,0 +1,41 @@
+name: Update World Cup Standings
+
+on:
+  schedule:
+    # Runs once a day at 04:00 UTC (12:00 AM Eastern Standard Time)
+    - cron: "0 4 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install deps
+        run: pip install requests
+
+      - name: Create public directory
+        run: mkdir -p public
+
+      - name: Update standings
+        run: python scripts/parse_standings.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/standings.json
+          git commit -m "Update standings.json" || echo "No changes"
+          git push
