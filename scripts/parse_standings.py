@@ -32,38 +32,42 @@ for m in data.get("matches", []):
         init_team(m["team1"], group_name)
         init_team(m["team2"], group_name)
 
-# 2. Process match scores if they exist
+# 2. Process match scores using the correct nested "score" -> "ft" format
 for m in data.get("matches", []):
-    if m.get("score1") is not None and m.get("score2") is not None:
-        t1, t2 = m["team1"], m["team2"]
-        s1, s2 = int(m["score1"]), int(m["score2"])
-        
-        # Update goals
-        standings[t1]["goals_for"] += s1
-        standings[t1]["goals_against"] += s2
-        standings[t2]["goals_for"] += s2
-        standings[t2]["goals_against"] += s1
-        
-        # Record outcome
-        if s1 > s2:
-            standings[t1]["points"] += 3
-            standings[t1]["wins"] += 1
-            standings[t2]["losses"] += 1
-        elif s2 > s1:
-            standings[t2]["points"] += 3
-            standings[t2]["wins"] += 1
-            standings[t1]["losses"] += 1
-        else:
-            standings[t1]["points"] += 1
-            standings[t2]["points"] += 1
-            standings[t1]["draws"] += 1
-            standings[t2]["draws"] += 1
+    score_obj = m.get("score")
+    if score_obj and isinstance(score_obj, dict):
+        ft_score = score_obj.get("ft")
+        # Ensure 'ft' exists and contains exactly two scores [score1, score2]
+        if ft_score and len(ft_score) == 2:
+            t1, t2 = m["team1"], m["team2"]
+            s1, s2 = int(ft_score[0]), int(ft_score[1])
+            
+            # Update goals
+            standings[t1]["goals_for"] += s1
+            standings[t1]["goals_against"] += s2
+            standings[t2]["goals_for"] += s2
+            standings[t2]["goals_against"] += s1
+            
+            # Record outcome
+            if s1 > s2:
+                standings[t1]["points"] += 3
+                standings[t1]["wins"] += 1
+                standings[t2]["losses"] += 1
+            elif s2 > s1:
+                standings[t2]["points"] += 3
+                standings[t2]["wins"] += 1
+                standings[t1]["losses"] += 1
+            else:
+                standings[t1]["points"] += 1
+                standings[t2]["points"] += 1
+                standings[t1]["draws"] += 1
+                standings[t2]["draws"] += 1
 
 # Calculate final goal differences for initialized teams
 for team in standings.values():
     team["goal_difference"] = team["goals_for"] - team["goals_against"]
 
-# 3. Structure by Group and Sort alphabetically as a fallback tiebreaker
+# 3. Structure by Group and Sort
 groups_data = {}
 for team_stats in standings.values():
     grp = team_stats["group"]
@@ -75,7 +79,7 @@ for team_stats in standings.values():
 for grp in groups_data:
     groups_data[grp] = sorted(
         groups_data[grp], 
-        key=lambda x: (x["points"], x["goal_difference"], x["goals_for"], x["team"].lower() == False), 
+        key=lambda x: (x["points"], x["goal_difference"], x["goals_for"], x["team"].lower()), 
         reverse=True
     )
 
