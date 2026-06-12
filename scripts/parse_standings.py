@@ -14,13 +14,13 @@ def init_team(team_name, g_name):
         standings[team_name] = {
             "team": team_name, 
             "group": g_name,
-            "points": 0, 
             "wins": 0, 
             "draws": 0, 
             "losses": 0,
             "goals_for": 0,
             "goals_against": 0,
-            "goal_difference": 0
+            "goal_difference": 0,
+            "points": 0
         }
 
 # 1. Map all teams to their assigned groups and initialize with zero stats
