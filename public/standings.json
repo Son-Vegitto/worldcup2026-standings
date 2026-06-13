@@ -48,6 +48,28 @@
         ],
         "Group B": [
             {
+                "team": "Canada",
+                "group": "Group B",
+                "wins": 0,
+                "draws": 1,
+                "losses": 0,
+                "goals_for": 1,
+                "goals_against": 1,
+                "goal_difference": 0,
+                "points": 1
+            },
+            {
+                "team": "Bosnia & Herzegovina",
+                "group": "Group B",
+                "wins": 0,
+                "draws": 1,
+                "losses": 0,
+                "goals_for": 1,
+                "goals_against": 1,
+                "goal_difference": 0,
+                "points": 1
+            },
+            {
                 "team": "Switzerland",
                 "group": "Group B",
                 "wins": 0,
@@ -60,28 +82,6 @@
             },
             {
                 "team": "Qatar",
-                "group": "Group B",
-                "wins": 0,
-                "draws": 0,
-                "losses": 0,
-                "goals_for": 0,
-                "goals_against": 0,
-                "goal_difference": 0,
-                "points": 0
-            },
-            {
-                "team": "Canada",
-                "group": "Group B",
-                "wins": 0,
-                "draws": 0,
-                "losses": 0,
-                "goals_for": 0,
-                "goals_against": 0,
-                "goal_difference": 0,
-                "points": 0
-            },
-            {
-                "team": "Bosnia & Herzegovina",
                 "group": "Group B",
                 "wins": 0,
                 "draws": 0,
@@ -142,27 +142,16 @@
             {
                 "team": "USA",
                 "group": "Group D",
-                "wins": 0,
+                "wins": 1,
                 "draws": 0,
                 "losses": 0,
-                "goals_for": 0,
-                "goals_against": 0,
-                "goal_difference": 0,
-                "points": 0
+                "goals_for": 4,
+                "goals_against": 1,
+                "goal_difference": 3,
+                "points": 3
             },
             {
                 "team": "Turkey",
-                "group": "Group D",
-                "wins": 0,
-                "draws": 0,
-                "losses": 0,
-                "goals_for": 0,
-                "goals_against": 0,
-                "goal_difference": 0,
-                "points": 0
-            },
-            {
-                "team": "Paraguay",
                 "group": "Group D",
                 "wins": 0,
                 "draws": 0,
@@ -181,6 +170,17 @@
                 "goals_for": 0,
                 "goals_against": 0,
                 "goal_difference": 0,
+                "points": 0
+            },
+            {
+                "team": "Paraguay",
+                "group": "Group D",
+                "wins": 0,
+                "draws": 0,
+                "losses": 1,
+                "goals_for": 1,
+                "goals_against": 4,
+                "goal_difference": -3,
                 "points": 0
             }
         ],
@@ -555,7 +555,7 @@
     },
     "third_place_leaderboard": [
         {
-            "team": "Canada",
+            "team": "Switzerland",
             "group": "Group B",
             "wins": 0,
             "draws": 0,
@@ -577,7 +577,7 @@
             "points": 0
         },
         {
-            "team": "Paraguay",
+            "team": "Australia",
             "group": "Group D",
             "wins": 0,
             "draws": 0,
