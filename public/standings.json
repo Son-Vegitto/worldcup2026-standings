@@ -48,6 +48,28 @@
         ],
         "Group B": [
             {
+                "team": "Switzerland",
+                "group": "Group B",
+                "wins": 0,
+                "draws": 1,
+                "losses": 0,
+                "goals_for": 1,
+                "goals_against": 1,
+                "goal_difference": 0,
+                "points": 1
+            },
+            {
+                "team": "Qatar",
+                "group": "Group B",
+                "wins": 0,
+                "draws": 1,
+                "losses": 0,
+                "goals_for": 1,
+                "goals_against": 1,
+                "goal_difference": 0,
+                "points": 1
+            },
+            {
                 "team": "Canada",
                 "group": "Group B",
                 "wins": 0,
@@ -68,73 +90,51 @@
                 "goals_against": 1,
                 "goal_difference": 0,
                 "points": 1
-            },
-            {
-                "team": "Switzerland",
-                "group": "Group B",
-                "wins": 0,
-                "draws": 0,
-                "losses": 0,
-                "goals_for": 0,
-                "goals_against": 0,
-                "goal_difference": 0,
-                "points": 0
-            },
-            {
-                "team": "Qatar",
-                "group": "Group B",
-                "wins": 0,
-                "draws": 0,
-                "losses": 0,
-                "goals_for": 0,
-                "goals_against": 0,
-                "goal_difference": 0,
-                "points": 0
             }
         ],
         "Group C": [
             {
                 "team": "Scotland",
                 "group": "Group C",
-                "wins": 0,
+                "wins": 1,
                 "draws": 0,
                 "losses": 0,
-                "goals_for": 0,
+                "goals_for": 1,
                 "goals_against": 0,
-                "goal_difference": 0,
-                "points": 0
+                "goal_difference": 1,
+                "points": 3
             },
             {
                 "team": "Morocco",
                 "group": "Group C",
                 "wins": 0,
-                "draws": 0,
+                "draws": 1,
                 "losses": 0,
-                "goals_for": 0,
-                "goals_against": 0,
+                "goals_for": 1,
+                "goals_against": 1,
                 "goal_difference": 0,
-                "points": 0
+                "points": 1
+            },
+            {
+                "team": "Brazil",
+                "group": "Group C",
+                "wins": 0,
+                "draws": 1,
+                "losses": 0,
+                "goals_for": 1,
+                "goals_against": 1,
+                "goal_difference": 0,
+                "points": 1
             },
             {
                 "team": "Haiti",
                 "group": "Group C",
                 "wins": 0,
                 "draws": 0,
-                "losses": 0,
+                "losses": 1,
                 "goals_for": 0,
-                "goals_against": 0,
-                "goal_difference": 0,
-                "points": 0
-            },
-            {
-                "team": "Brazil",
-                "group": "Group C",
-                "wins": 0,
-                "draws": 0,
-                "losses": 0,
-                "goals_for": 0,
-                "goals_against": 0,
-                "goal_difference": 0,
+                "goals_against": 1,
+                "goal_difference": -1,
                 "points": 0
             }
         ],
@@ -555,26 +555,26 @@
     },
     "third_place_leaderboard": [
         {
-            "team": "Switzerland",
+            "team": "Canada",
             "group": "Group B",
             "wins": 0,
-            "draws": 0,
+            "draws": 1,
             "losses": 0,
-            "goals_for": 0,
-            "goals_against": 0,
+            "goals_for": 1,
+            "goals_against": 1,
             "goal_difference": 0,
-            "points": 0
+            "points": 1
         },
         {
-            "team": "Haiti",
+            "team": "Brazil",
             "group": "Group C",
             "wins": 0,
-            "draws": 0,
+            "draws": 1,
             "losses": 0,
-            "goals_for": 0,
-            "goals_against": 0,
+            "goals_for": 1,
+            "goals_against": 1,
             "goal_difference": 0,
-            "points": 0
+            "points": 1
         },
         {
             "team": "Australia",
