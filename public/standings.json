@@ -151,25 +151,25 @@
                 "points": 3
             },
             {
+                "team": "Australia",
+                "group": "Group D",
+                "wins": 1,
+                "draws": 0,
+                "losses": 0,
+                "goals_for": 2,
+                "goals_against": 0,
+                "goal_difference": 2,
+                "points": 3
+            },
+            {
                 "team": "Turkey",
                 "group": "Group D",
                 "wins": 0,
                 "draws": 0,
-                "losses": 0,
+                "losses": 1,
                 "goals_for": 0,
-                "goals_against": 0,
-                "goal_difference": 0,
-                "points": 0
-            },
-            {
-                "team": "Australia",
-                "group": "Group D",
-                "wins": 0,
-                "draws": 0,
-                "losses": 0,
-                "goals_for": 0,
-                "goals_against": 0,
-                "goal_difference": 0,
+                "goals_against": 2,
+                "goal_difference": -2,
                 "points": 0
             },
             {
@@ -186,36 +186,36 @@
         ],
         "Group E": [
             {
-                "team": "Ivory Coast",
-                "group": "Group E",
-                "wins": 0,
-                "draws": 0,
-                "losses": 0,
-                "goals_for": 0,
-                "goals_against": 0,
-                "goal_difference": 0,
-                "points": 0
-            },
-            {
                 "team": "Germany",
                 "group": "Group E",
-                "wins": 0,
+                "wins": 1,
                 "draws": 0,
                 "losses": 0,
-                "goals_for": 0,
+                "goals_for": 7,
+                "goals_against": 1,
+                "goal_difference": 6,
+                "points": 3
+            },
+            {
+                "team": "Ivory Coast",
+                "group": "Group E",
+                "wins": 1,
+                "draws": 0,
+                "losses": 0,
+                "goals_for": 1,
                 "goals_against": 0,
-                "goal_difference": 0,
-                "points": 0
+                "goal_difference": 1,
+                "points": 3
             },
             {
                 "team": "Ecuador",
                 "group": "Group E",
                 "wins": 0,
                 "draws": 0,
-                "losses": 0,
+                "losses": 1,
                 "goals_for": 0,
-                "goals_against": 0,
-                "goal_difference": 0,
+                "goals_against": 1,
+                "goal_difference": -1,
                 "points": 0
             },
             {
@@ -223,56 +223,56 @@
                 "group": "Group E",
                 "wins": 0,
                 "draws": 0,
-                "losses": 0,
-                "goals_for": 0,
-                "goals_against": 0,
-                "goal_difference": 0,
+                "losses": 1,
+                "goals_for": 1,
+                "goals_against": 7,
+                "goal_difference": -6,
                 "points": 0
             }
         ],
         "Group F": [
             {
-                "team": "Tunisia",
-                "group": "Group F",
-                "wins": 0,
-                "draws": 0,
-                "losses": 0,
-                "goals_for": 0,
-                "goals_against": 0,
-                "goal_difference": 0,
-                "points": 0
-            },
-            {
                 "team": "Sweden",
                 "group": "Group F",
-                "wins": 0,
+                "wins": 1,
                 "draws": 0,
                 "losses": 0,
-                "goals_for": 0,
-                "goals_against": 0,
-                "goal_difference": 0,
-                "points": 0
+                "goals_for": 5,
+                "goals_against": 1,
+                "goal_difference": 4,
+                "points": 3
             },
             {
                 "team": "Netherlands",
                 "group": "Group F",
                 "wins": 0,
-                "draws": 0,
+                "draws": 1,
                 "losses": 0,
-                "goals_for": 0,
-                "goals_against": 0,
+                "goals_for": 2,
+                "goals_against": 2,
                 "goal_difference": 0,
-                "points": 0
+                "points": 1
             },
             {
                 "team": "Japan",
                 "group": "Group F",
                 "wins": 0,
-                "draws": 0,
+                "draws": 1,
                 "losses": 0,
-                "goals_for": 0,
-                "goals_against": 0,
+                "goals_for": 2,
+                "goals_against": 2,
                 "goal_difference": 0,
+                "points": 1
+            },
+            {
+                "team": "Tunisia",
+                "group": "Group F",
+                "wins": 0,
+                "draws": 0,
+                "losses": 1,
+                "goals_for": 1,
+                "goals_against": 5,
+                "goal_difference": -4,
                 "points": 0
             }
         ],
@@ -555,6 +555,17 @@
     },
     "third_place_leaderboard": [
         {
+            "team": "Japan",
+            "group": "Group F",
+            "wins": 0,
+            "draws": 1,
+            "losses": 0,
+            "goals_for": 2,
+            "goals_against": 2,
+            "goal_difference": 0,
+            "points": 1
+        },
+        {
             "team": "Canada",
             "group": "Group B",
             "wins": 0,
@@ -575,39 +586,6 @@
             "goals_against": 1,
             "goal_difference": 0,
             "points": 1
-        },
-        {
-            "team": "Australia",
-            "group": "Group D",
-            "wins": 0,
-            "draws": 0,
-            "losses": 0,
-            "goals_for": 0,
-            "goals_against": 0,
-            "goal_difference": 0,
-            "points": 0
-        },
-        {
-            "team": "Ecuador",
-            "group": "Group E",
-            "wins": 0,
-            "draws": 0,
-            "losses": 0,
-            "goals_for": 0,
-            "goals_against": 0,
-            "goal_difference": 0,
-            "points": 0
-        },
-        {
-            "team": "Netherlands",
-            "group": "Group F",
-            "wins": 0,
-            "draws": 0,
-            "losses": 0,
-            "goals_for": 0,
-            "goals_against": 0,
-            "goal_difference": 0,
-            "points": 0
         },
         {
             "team": "Egypt",
@@ -684,6 +662,28 @@
             "goals_for": 1,
             "goals_against": 2,
             "goal_difference": -1,
+            "points": 0
+        },
+        {
+            "team": "Ecuador",
+            "group": "Group E",
+            "wins": 0,
+            "draws": 0,
+            "losses": 1,
+            "goals_for": 0,
+            "goals_against": 1,
+            "goal_difference": -1,
+            "points": 0
+        },
+        {
+            "team": "Turkey",
+            "group": "Group D",
+            "wins": 0,
+            "draws": 0,
+            "losses": 1,
+            "goals_for": 0,
+            "goals_against": 2,
+            "goal_difference": -2,
             "points": 0
         }
     ]
