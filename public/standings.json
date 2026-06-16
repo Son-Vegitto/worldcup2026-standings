@@ -281,45 +281,45 @@
                 "team": "New Zealand",
                 "group": "Group G",
                 "wins": 0,
-                "draws": 0,
+                "draws": 1,
                 "losses": 0,
-                "goals_for": 0,
-                "goals_against": 0,
+                "goals_for": 2,
+                "goals_against": 2,
                 "goal_difference": 0,
-                "points": 0
+                "points": 1
             },
             {
                 "team": "Iran",
                 "group": "Group G",
                 "wins": 0,
-                "draws": 0,
+                "draws": 1,
                 "losses": 0,
-                "goals_for": 0,
-                "goals_against": 0,
+                "goals_for": 2,
+                "goals_against": 2,
                 "goal_difference": 0,
-                "points": 0
+                "points": 1
             },
             {
                 "team": "Egypt",
                 "group": "Group G",
                 "wins": 0,
-                "draws": 0,
+                "draws": 1,
                 "losses": 0,
-                "goals_for": 0,
-                "goals_against": 0,
+                "goals_for": 1,
+                "goals_against": 1,
                 "goal_difference": 0,
-                "points": 0
+                "points": 1
             },
             {
                 "team": "Belgium",
                 "group": "Group G",
                 "wins": 0,
-                "draws": 0,
+                "draws": 1,
                 "losses": 0,
-                "goals_for": 0,
-                "goals_against": 0,
+                "goals_for": 1,
+                "goals_against": 1,
                 "goal_difference": 0,
-                "points": 0
+                "points": 1
             }
         ],
         "Group H": [
@@ -327,45 +327,45 @@
                 "team": "Uruguay",
                 "group": "Group H",
                 "wins": 0,
-                "draws": 0,
+                "draws": 1,
                 "losses": 0,
-                "goals_for": 0,
-                "goals_against": 0,
+                "goals_for": 1,
+                "goals_against": 1,
                 "goal_difference": 0,
-                "points": 0
-            },
-            {
-                "team": "Spain",
-                "group": "Group H",
-                "wins": 0,
-                "draws": 0,
-                "losses": 0,
-                "goals_for": 0,
-                "goals_against": 0,
-                "goal_difference": 0,
-                "points": 0
+                "points": 1
             },
             {
                 "team": "Saudi Arabia",
                 "group": "Group H",
                 "wins": 0,
-                "draws": 0,
+                "draws": 1,
+                "losses": 0,
+                "goals_for": 1,
+                "goals_against": 1,
+                "goal_difference": 0,
+                "points": 1
+            },
+            {
+                "team": "Spain",
+                "group": "Group H",
+                "wins": 0,
+                "draws": 1,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
                 "goal_difference": 0,
-                "points": 0
+                "points": 1
             },
             {
                 "team": "Cape Verde",
                 "group": "Group H",
                 "wins": 0,
-                "draws": 0,
+                "draws": 1,
                 "losses": 0,
                 "goals_for": 0,
                 "goals_against": 0,
                 "goal_difference": 0,
-                "points": 0
+                "points": 1
             }
         ],
         "Group I": [
@@ -591,23 +591,23 @@
             "team": "Egypt",
             "group": "Group G",
             "wins": 0,
-            "draws": 0,
+            "draws": 1,
             "losses": 0,
-            "goals_for": 0,
-            "goals_against": 0,
+            "goals_for": 1,
+            "goals_against": 1,
             "goal_difference": 0,
-            "points": 0
+            "points": 1
         },
         {
-            "team": "Saudi Arabia",
+            "team": "Spain",
             "group": "Group H",
             "wins": 0,
-            "draws": 0,
+            "draws": 1,
             "losses": 0,
             "goals_for": 0,
             "goals_against": 0,
             "goal_difference": 0,
-            "points": 0
+            "points": 1
         },
         {
             "team": "Iraq",
