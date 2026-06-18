@@ -462,82 +462,82 @@
         ],
         "Group K": [
             {
-                "team": "Uzbekistan",
+                "team": "Colombia",
                 "group": "Group K",
-                "wins": 0,
+                "wins": 1,
                 "draws": 0,
                 "losses": 0,
-                "goals_for": 0,
-                "goals_against": 0,
-                "goal_difference": 0,
-                "points": 0
+                "goals_for": 3,
+                "goals_against": 1,
+                "goal_difference": 2,
+                "points": 3
             },
             {
                 "team": "Portugal",
                 "group": "Group K",
                 "wins": 0,
-                "draws": 0,
+                "draws": 1,
                 "losses": 0,
-                "goals_for": 0,
-                "goals_against": 0,
+                "goals_for": 1,
+                "goals_against": 1,
                 "goal_difference": 0,
-                "points": 0
+                "points": 1
             },
             {
                 "team": "DR Congo",
                 "group": "Group K",
                 "wins": 0,
-                "draws": 0,
+                "draws": 1,
                 "losses": 0,
-                "goals_for": 0,
-                "goals_against": 0,
+                "goals_for": 1,
+                "goals_against": 1,
                 "goal_difference": 0,
-                "points": 0
+                "points": 1
             },
             {
-                "team": "Colombia",
+                "team": "Uzbekistan",
                 "group": "Group K",
                 "wins": 0,
                 "draws": 0,
-                "losses": 0,
-                "goals_for": 0,
-                "goals_against": 0,
-                "goal_difference": 0,
+                "losses": 1,
+                "goals_for": 1,
+                "goals_against": 3,
+                "goal_difference": -2,
                 "points": 0
             }
         ],
         "Group L": [
             {
-                "team": "Panama",
+                "team": "England",
                 "group": "Group L",
-                "wins": 0,
+                "wins": 1,
                 "draws": 0,
                 "losses": 0,
-                "goals_for": 0,
-                "goals_against": 0,
-                "goal_difference": 0,
-                "points": 0
+                "goals_for": 4,
+                "goals_against": 2,
+                "goal_difference": 2,
+                "points": 3
             },
             {
                 "team": "Ghana",
                 "group": "Group L",
-                "wins": 0,
+                "wins": 1,
                 "draws": 0,
                 "losses": 0,
-                "goals_for": 0,
+                "goals_for": 1,
                 "goals_against": 0,
-                "goal_difference": 0,
-                "points": 0
+                "goal_difference": 1,
+                "points": 3
             },
             {
-                "team": "England",
+                "team": "Panama",
                 "group": "Group L",
                 "wins": 0,
                 "draws": 0,
-                "losses": 0,
+                "losses": 1,
                 "goals_for": 0,
-                "goals_against": 0,
-                "goal_difference": 0,
+                "goals_against": 1,
+                "goal_difference": -1,
                 "points": 0
             },
             {
@@ -545,10 +545,10 @@
                 "group": "Group L",
                 "wins": 0,
                 "draws": 0,
-                "losses": 0,
-                "goals_for": 0,
-                "goals_against": 0,
-                "goal_difference": 0,
+                "losses": 1,
+                "goals_for": 2,
+                "goals_against": 4,
+                "goal_difference": -2,
                 "points": 0
             }
         ]
@@ -599,6 +599,17 @@
             "points": 1
         },
         {
+            "team": "DR Congo",
+            "group": "Group K",
+            "wins": 0,
+            "draws": 1,
+            "losses": 0,
+            "goals_for": 1,
+            "goals_against": 1,
+            "goal_difference": 0,
+            "points": 1
+        },
+        {
             "team": "Spain",
             "group": "Group H",
             "wins": 0,
@@ -608,28 +619,6 @@
             "goals_against": 0,
             "goal_difference": 0,
             "points": 1
-        },
-        {
-            "team": "DR Congo",
-            "group": "Group K",
-            "wins": 0,
-            "draws": 0,
-            "losses": 0,
-            "goals_for": 0,
-            "goals_against": 0,
-            "goal_difference": 0,
-            "points": 0
-        },
-        {
-            "team": "England",
-            "group": "Group L",
-            "wins": 0,
-            "draws": 0,
-            "losses": 0,
-            "goals_for": 0,
-            "goals_against": 0,
-            "goal_difference": 0,
-            "points": 0
         },
         {
             "team": "Czech Republic",
@@ -645,6 +634,17 @@
         {
             "team": "Ecuador",
             "group": "Group E",
+            "wins": 0,
+            "draws": 0,
+            "losses": 1,
+            "goals_for": 0,
+            "goals_against": 1,
+            "goal_difference": -1,
+            "points": 0
+        },
+        {
+            "team": "Panama",
+            "group": "Group L",
             "wins": 0,
             "draws": 0,
             "losses": 1,
