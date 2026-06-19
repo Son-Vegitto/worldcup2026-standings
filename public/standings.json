@@ -4,58 +4,80 @@
             {
                 "team": "Mexico",
                 "group": "Group A",
-                "wins": 1,
+                "wins": 2,
                 "draws": 0,
                 "losses": 0,
-                "goals_for": 2,
+                "goals_for": 3,
                 "goals_against": 0,
-                "goal_difference": 2,
-                "points": 3
+                "goal_difference": 3,
+                "points": 6
             },
             {
                 "team": "South Korea",
                 "group": "Group A",
                 "wins": 1,
                 "draws": 0,
-                "losses": 0,
+                "losses": 1,
                 "goals_for": 2,
-                "goals_against": 1,
-                "goal_difference": 1,
+                "goals_against": 2,
+                "goal_difference": 0,
                 "points": 3
             },
             {
                 "team": "Czech Republic",
                 "group": "Group A",
                 "wins": 0,
-                "draws": 0,
+                "draws": 1,
                 "losses": 1,
-                "goals_for": 1,
-                "goals_against": 2,
+                "goals_for": 2,
+                "goals_against": 3,
                 "goal_difference": -1,
-                "points": 0
+                "points": 1
             },
             {
                 "team": "South Africa",
                 "group": "Group A",
                 "wins": 0,
-                "draws": 0,
+                "draws": 1,
                 "losses": 1,
-                "goals_for": 0,
-                "goals_against": 2,
+                "goals_for": 1,
+                "goals_against": 3,
                 "goal_difference": -2,
-                "points": 0
+                "points": 1
             }
         ],
         "Group B": [
             {
+                "team": "Canada",
+                "group": "Group B",
+                "wins": 1,
+                "draws": 1,
+                "losses": 0,
+                "goals_for": 7,
+                "goals_against": 1,
+                "goal_difference": 6,
+                "points": 4
+            },
+            {
                 "team": "Switzerland",
+                "group": "Group B",
+                "wins": 1,
+                "draws": 1,
+                "losses": 0,
+                "goals_for": 5,
+                "goals_against": 2,
+                "goal_difference": 3,
+                "points": 4
+            },
+            {
+                "team": "Bosnia & Herzegovina",
                 "group": "Group B",
                 "wins": 0,
                 "draws": 1,
-                "losses": 0,
-                "goals_for": 1,
-                "goals_against": 1,
-                "goal_difference": 0,
+                "losses": 1,
+                "goals_for": 2,
+                "goals_against": 5,
+                "goal_difference": -3,
                 "points": 1
             },
             {
@@ -63,32 +85,10 @@
                 "group": "Group B",
                 "wins": 0,
                 "draws": 1,
-                "losses": 0,
+                "losses": 1,
                 "goals_for": 1,
-                "goals_against": 1,
-                "goal_difference": 0,
-                "points": 1
-            },
-            {
-                "team": "Canada",
-                "group": "Group B",
-                "wins": 0,
-                "draws": 1,
-                "losses": 0,
-                "goals_for": 1,
-                "goals_against": 1,
-                "goal_difference": 0,
-                "points": 1
-            },
-            {
-                "team": "Bosnia & Herzegovina",
-                "group": "Group B",
-                "wins": 0,
-                "draws": 1,
-                "losses": 0,
-                "goals_for": 1,
-                "goals_against": 1,
-                "goal_difference": 0,
+                "goals_against": 7,
+                "goal_difference": -6,
                 "points": 1
             }
         ],
@@ -566,17 +566,6 @@
             "points": 1
         },
         {
-            "team": "Canada",
-            "group": "Group B",
-            "wins": 0,
-            "draws": 1,
-            "losses": 0,
-            "goals_for": 1,
-            "goals_against": 1,
-            "goal_difference": 0,
-            "points": 1
-        },
-        {
             "team": "Brazil",
             "group": "Group C",
             "wins": 0,
@@ -624,12 +613,23 @@
             "team": "Czech Republic",
             "group": "Group A",
             "wins": 0,
-            "draws": 0,
+            "draws": 1,
             "losses": 1,
-            "goals_for": 1,
-            "goals_against": 2,
+            "goals_for": 2,
+            "goals_against": 3,
             "goal_difference": -1,
-            "points": 0
+            "points": 1
+        },
+        {
+            "team": "Bosnia & Herzegovina",
+            "group": "Group B",
+            "wins": 0,
+            "draws": 1,
+            "losses": 1,
+            "goals_for": 2,
+            "goals_against": 5,
+            "goal_difference": -3,
+            "points": 1
         },
         {
             "team": "Ecuador",
