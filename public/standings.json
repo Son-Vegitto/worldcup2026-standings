@@ -94,47 +94,47 @@
         ],
         "Group C": [
             {
-                "team": "Scotland",
+                "team": "Brazil",
                 "group": "Group C",
                 "wins": 1,
-                "draws": 0,
+                "draws": 1,
                 "losses": 0,
-                "goals_for": 1,
-                "goals_against": 0,
-                "goal_difference": 1,
-                "points": 3
+                "goals_for": 4,
+                "goals_against": 1,
+                "goal_difference": 3,
+                "points": 4
             },
             {
                 "team": "Morocco",
                 "group": "Group C",
-                "wins": 0,
+                "wins": 1,
                 "draws": 1,
                 "losses": 0,
-                "goals_for": 1,
+                "goals_for": 2,
                 "goals_against": 1,
-                "goal_difference": 0,
-                "points": 1
+                "goal_difference": 1,
+                "points": 4
             },
             {
-                "team": "Brazil",
+                "team": "Scotland",
                 "group": "Group C",
-                "wins": 0,
-                "draws": 1,
-                "losses": 0,
+                "wins": 1,
+                "draws": 0,
+                "losses": 1,
                 "goals_for": 1,
                 "goals_against": 1,
                 "goal_difference": 0,
-                "points": 1
+                "points": 3
             },
             {
                 "team": "Haiti",
                 "group": "Group C",
                 "wins": 0,
                 "draws": 0,
-                "losses": 1,
+                "losses": 2,
                 "goals_for": 0,
-                "goals_against": 1,
-                "goal_difference": -1,
+                "goals_against": 4,
+                "goal_difference": -4,
                 "points": 0
             }
         ],
@@ -142,23 +142,34 @@
             {
                 "team": "USA",
                 "group": "Group D",
-                "wins": 1,
+                "wins": 2,
                 "draws": 0,
                 "losses": 0,
-                "goals_for": 4,
+                "goals_for": 6,
                 "goals_against": 1,
-                "goal_difference": 3,
-                "points": 3
+                "goal_difference": 5,
+                "points": 6
             },
             {
                 "team": "Australia",
                 "group": "Group D",
                 "wins": 1,
                 "draws": 0,
-                "losses": 0,
+                "losses": 1,
                 "goals_for": 2,
-                "goals_against": 0,
-                "goal_difference": 2,
+                "goals_against": 2,
+                "goal_difference": 0,
+                "points": 3
+            },
+            {
+                "team": "Paraguay",
+                "group": "Group D",
+                "wins": 1,
+                "draws": 0,
+                "losses": 1,
+                "goals_for": 2,
+                "goals_against": 4,
+                "goal_difference": -2,
                 "points": 3
             },
             {
@@ -166,20 +177,9 @@
                 "group": "Group D",
                 "wins": 0,
                 "draws": 0,
-                "losses": 1,
+                "losses": 2,
                 "goals_for": 0,
-                "goals_against": 2,
-                "goal_difference": -2,
-                "points": 0
-            },
-            {
-                "team": "Paraguay",
-                "group": "Group D",
-                "wins": 0,
-                "draws": 0,
-                "losses": 1,
-                "goals_for": 1,
-                "goals_against": 4,
+                "goals_against": 3,
                 "goal_difference": -3,
                 "points": 0
             }
@@ -555,6 +555,28 @@
     },
     "third_place_leaderboard": [
         {
+            "team": "Scotland",
+            "group": "Group C",
+            "wins": 1,
+            "draws": 0,
+            "losses": 1,
+            "goals_for": 1,
+            "goals_against": 1,
+            "goal_difference": 0,
+            "points": 3
+        },
+        {
+            "team": "Paraguay",
+            "group": "Group D",
+            "wins": 1,
+            "draws": 0,
+            "losses": 1,
+            "goals_for": 2,
+            "goals_against": 4,
+            "goal_difference": -2,
+            "points": 3
+        },
+        {
             "team": "Japan",
             "group": "Group F",
             "wins": 0,
@@ -562,17 +584,6 @@
             "losses": 0,
             "goals_for": 2,
             "goals_against": 2,
-            "goal_difference": 0,
-            "points": 1
-        },
-        {
-            "team": "Brazil",
-            "group": "Group C",
-            "wins": 0,
-            "draws": 1,
-            "losses": 0,
-            "goals_for": 1,
-            "goals_against": 1,
             "goal_difference": 0,
             "points": 1
         },
@@ -672,17 +683,6 @@
             "losses": 1,
             "goals_for": 1,
             "goals_against": 3,
-            "goal_difference": -2,
-            "points": 0
-        },
-        {
-            "team": "Turkey",
-            "group": "Group D",
-            "wins": 0,
-            "draws": 0,
-            "losses": 1,
-            "goals_for": 0,
-            "goals_against": 2,
             "goal_difference": -2,
             "points": 0
         }
