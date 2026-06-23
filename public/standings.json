@@ -370,36 +370,36 @@
         ],
         "Group I": [
             {
-                "team": "Norway",
-                "group": "Group I",
-                "wins": 1,
-                "draws": 0,
-                "losses": 0,
-                "goals_for": 4,
-                "goals_against": 1,
-                "goal_difference": 3,
-                "points": 3
-            },
-            {
                 "team": "France",
                 "group": "Group I",
-                "wins": 1,
+                "wins": 2,
                 "draws": 0,
                 "losses": 0,
-                "goals_for": 3,
+                "goals_for": 6,
                 "goals_against": 1,
-                "goal_difference": 2,
-                "points": 3
+                "goal_difference": 5,
+                "points": 6
+            },
+            {
+                "team": "Norway",
+                "group": "Group I",
+                "wins": 2,
+                "draws": 0,
+                "losses": 0,
+                "goals_for": 7,
+                "goals_against": 3,
+                "goal_difference": 4,
+                "points": 6
             },
             {
                 "team": "Senegal",
                 "group": "Group I",
                 "wins": 0,
                 "draws": 0,
-                "losses": 1,
-                "goals_for": 1,
-                "goals_against": 3,
-                "goal_difference": -2,
+                "losses": 2,
+                "goals_for": 3,
+                "goals_against": 6,
+                "goal_difference": -3,
                 "points": 0
             },
             {
@@ -407,10 +407,10 @@
                 "group": "Group I",
                 "wins": 0,
                 "draws": 0,
-                "losses": 1,
+                "losses": 2,
                 "goals_for": 1,
-                "goals_against": 4,
-                "goal_difference": -3,
+                "goals_against": 7,
+                "goal_difference": -6,
                 "points": 0
             }
         ],
@@ -418,23 +418,34 @@
             {
                 "team": "Argentina",
                 "group": "Group J",
-                "wins": 1,
+                "wins": 2,
                 "draws": 0,
                 "losses": 0,
-                "goals_for": 3,
+                "goals_for": 5,
                 "goals_against": 0,
-                "goal_difference": 3,
-                "points": 3
+                "goal_difference": 5,
+                "points": 6
             },
             {
                 "team": "Austria",
                 "group": "Group J",
                 "wins": 1,
                 "draws": 0,
-                "losses": 0,
+                "losses": 1,
                 "goals_for": 3,
-                "goals_against": 1,
-                "goal_difference": 2,
+                "goals_against": 3,
+                "goal_difference": 0,
+                "points": 3
+            },
+            {
+                "team": "Algeria",
+                "group": "Group J",
+                "wins": 1,
+                "draws": 0,
+                "losses": 1,
+                "goals_for": 2,
+                "goals_against": 4,
+                "goal_difference": -2,
                 "points": 3
             },
             {
@@ -442,20 +453,9 @@
                 "group": "Group J",
                 "wins": 0,
                 "draws": 0,
-                "losses": 1,
-                "goals_for": 1,
-                "goals_against": 3,
-                "goal_difference": -2,
-                "points": 0
-            },
-            {
-                "team": "Algeria",
-                "group": "Group J",
-                "wins": 0,
-                "draws": 0,
-                "losses": 1,
-                "goals_for": 0,
-                "goals_against": 3,
+                "losses": 2,
+                "goals_for": 2,
+                "goals_against": 5,
                 "goal_difference": -3,
                 "points": 0
             }
@@ -588,6 +588,17 @@
             "points": 3
         },
         {
+            "team": "Algeria",
+            "group": "Group J",
+            "wins": 1,
+            "draws": 0,
+            "losses": 1,
+            "goals_for": 2,
+            "goals_against": 4,
+            "goal_difference": -2,
+            "points": 3
+        },
+        {
             "team": "Cape Verde",
             "group": "Group H",
             "wins": 0,
@@ -669,21 +680,10 @@
             "group": "Group I",
             "wins": 0,
             "draws": 0,
-            "losses": 1,
-            "goals_for": 1,
-            "goals_against": 3,
-            "goal_difference": -2,
-            "points": 0
-        },
-        {
-            "team": "Jordan",
-            "group": "Group J",
-            "wins": 0,
-            "draws": 0,
-            "losses": 1,
-            "goals_for": 1,
-            "goals_against": 3,
-            "goal_difference": -2,
+            "losses": 2,
+            "goals_for": 3,
+            "goals_against": 6,
+            "goal_difference": -3,
             "points": 0
         }
     ]
